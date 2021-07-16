@@ -1,0 +1,23 @@
+.header {
+  height: 200px;
+  background-color: #00cc99; }
+
+.footer {
+  height: 200px;
+  background-color: #00cc99; }
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s; }
+  .box:hover {
+    width: 200px;
+    background-color: #00cc99; }
+
+/*# sourceMappingURL=all.css.map */
